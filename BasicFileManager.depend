@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1714572302 source:c:\users\asus\desktop\c++ internship\basicfilemanager\main.cpp
+
+1714572284 source:c:\users\asus\desktop\c++ internship\basicfilemanager\2ndtask.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
